@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: ...
-* Student ID: ...
+* Student Name: Nguyễn Thị Thảo
+* Student ID: Bi12-423
 
