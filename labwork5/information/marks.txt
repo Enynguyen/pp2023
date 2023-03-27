@@ -1,0 +1,9 @@
+ID: 1
+Name: eny
+Course: [['oop', 15, 4], ['dip', 18, 5]]
+GPA: 12.34567890
+
+ID: 2
+Name: thao
+Course: [['oop', 20, 4], ['dip', 19, 5]]
+GPA: 13.123456789
