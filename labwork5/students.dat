@@ -1,0 +1,29 @@
+PK     ˜¥–RÌ‰D7x   x      info/courses.txt
+ID: 1 --- Name: oop
+Credit: 4
+[['eny', 15], ['thao', 20]]
+
+ID: 2 --- Name: dip
+Credit: 5
+[['eny', 18], ['thao', 19]]
+PK     ˜¥–RÏì¦   ¦      info/marks.txt
+ID: 1
+Name: eny
+Course: [['oop', 15, 4], ['dip', 18, 5]]
+GPA: 12.34567890
+
+ID: 2
+Name: thao
+Course: [['oop', 20, 4], ['dip', 19, 5]]
+GPA: 13.123456789
+PK     ˜¥–RIòå•†   †      info/students.txt
+ID: 1
+Name: eny
+DoB: 15
+Course: [['oop', 15, 4], ['dip', 18, 5]]
+
+ID: 2
+Name: eny
+DoB: 22
+Course: [['oop', 20, 4], ['dip', 19, 5]]
+PK     ˜¥–RÌ‰D7x   x              ´    info/courses.txtPK     ˜¥–RÏì¦   ¦              ´¦   info/marks.txtPK     ˜¥–RIòå•†   †              ´x  info/students.txtPK 
